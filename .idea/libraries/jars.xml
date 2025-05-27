@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../37_24.04_Napredno_sqljdbc_12.6/sqljdbc_12.6/enu/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../37_24.04_Napredno_sqljdbc_12.6/sqljdbc_12.6/enu/jars" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../37_24.04_Napredno_sqljdbc_12.6/sqljdbc_12.6/enu/jars" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../37_24.04_Napredno_sqljdbc_12.6/sqljdbc_12.6/enu/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
